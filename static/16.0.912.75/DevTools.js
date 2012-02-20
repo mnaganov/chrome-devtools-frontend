@@ -4174,7 +4174,7 @@ WebInspector.InspectorFrontendHostStub = function()
 this._attachedWindowHeight = 0;
 }
 
-WebInspector._platformFlavor = WebInspector.PlatformFlavor.MacLeopard;
+WebInspector._platformFlavor = WebInspector.PlatformFlavor.MacSnowLeopard;
 
 WebInspector.InspectorFrontendHostStub.prototype = {
 platform: function()
